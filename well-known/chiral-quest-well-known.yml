@@ -1,0 +1,34 @@
+generated: '2026-07-20'
+method: searched
+source: live probe of http://www.chiralquest.com
+host: http://www.chiralquest.com
+notes: >-
+  Chiral Quest publishes no /.well-known/ discovery surface. The corporate site is served over
+  plain HTTP only (port 443 refuses connections), returns a soft 404 HTML page for every
+  /.well-known/ path, and does not serve robots.txt or llms.txt. A sitemap.xml is present and
+  enumerates the full 65-page brochure site; it contains no developer, API, or documentation pages.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
+- path: /robots.txt
+  status: 404
+- path: /sitemap.xml
+  status: 200
+  file: null
+  note: present but contains no API or developer URLs
+- path: /openapi.json
+  status: 404
+- path: /swagger.json
+  status: 404
+- path: /asyncapi.yaml
+  status: 404

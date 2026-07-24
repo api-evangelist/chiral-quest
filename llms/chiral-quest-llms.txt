@@ -1,0 +1,51 @@
+# Chiral Quest
+
+> Chiral Quest (Suzhou) Co., Ltd. (凯瑞斯德生化（苏州）有限公司) is a Chinese pharmaceutical CDMO built on
+> asymmetric catalytic hydrogenation. It develops and manufactures chiral drug molecules, key raw
+> materials, regulatory starting materials (RSMs), and advanced GMP intermediates for global
+> pharmaceutical companies. Chiral Quest publishes no public API, developer portal, SDK, or
+> machine-readable specification.
+
+## About
+
+- [Company profile](http://www.chiralquest.com/en/company-profile.html): Suzhou-headquartered CDMO, 800+ employees including a ~150-person R&D team. Merged with Jiangxi Longlai in 2012 and with Suzhou Pengxu in 2020.
+- [Development history](http://www.chiralquest.com/en/development-history.html): Company timeline.
+- [Leadership team](http://www.chiralquest.com/en/leadership-team.html): Executive team.
+- [Honors](http://www.chiralquest.com/en/company-honors.html): Awards and recognition.
+
+## Technology platforms
+
+- [Core technology platform](http://www.chiralquest.com/en/core-technology-platform.html): Overview of the four capability platforms.
+- [Asymmetric catalytic hydrogenation](http://www.chiralquest.com/en/asymmetric-catalytic-hydrogenation-platform.html): Proprietary chiral catalysts for enantioselective hydrogenation.
+- [Enzyme-catalyzed biosynthesis](http://www.chiralquest.com/en/enzyme-catalyzed-biosynthesis-platform.html): Biocatalysis in synthesis and process development.
+- [Flow chemistry](http://www.chiralquest.com/en/fluid-chemistry-platform.html): Continuous-flow synthesis and process development.
+- [Process innovation](http://www.chiralquest.com/en/process-Innovation-technology-platform.html): Route scouting and process optimization.
+
+## Services
+
+- [Customized development and production](http://www.chiralquest.com/en/customized-development-production.html): CDMO services for intermediates, RSMs, and GMP intermediates.
+- [R&D center](http://www.chiralquest.com/en/rd-center.html): Suzhou research facility.
+- [Manufacturing site](http://www.chiralquest.com/en/production-base.html): Jiangxi Longlai Biopharmaceutical production base.
+- [Quality management](http://www.chiralquest.com/en/quality-control.html): Quality systems; the site cites 300+ customer audits.
+- [Hazard evaluation laboratory](http://www.chiralquest.com/en/safety-laboratory.html): Process safety testing.
+- [EHS management](http://www.chiralquest.com/en/EHS-management.html): Environment, health, and safety program.
+- [IP protection](http://www.chiralquest.com/en/IP-protection.html): Customer intellectual-property handling.
+
+## Data
+
+- [Amino acid database](http://www.chiralquest.com/en/amino-acid-database.html): Searchable catalog of amino acid compounds with SMILES, CAS number, molecular weight, and molecular formula. Browser-only search UI; no documented public API.
+- [Structure search](http://www.chiralquest.com/structural-search.html): Chemical structure search over the compound catalog.
+
+## Contact
+
+- [Contact information](http://www.chiralquest.com/en/contact-information.html): Suzhou headquarters, Jiangxi manufacturing base, UK office (Milton, Cambridgeshire), US office (Monmouth Junction, NJ).
+- Sales: sales@cqpharm.com
+- [News](http://www.chiralquest.com/en/news-consultation.html): Company news and trade-show announcements.
+- [Careers](http://www.chiralquest.com/join-us.html): Recruitment.
+
+## Notes for agents
+
+- There is no API. No OpenAPI, AsyncAPI, GraphQL, gRPC, webhook, or MCP surface was found on any Chiral Quest host.
+- The site is served over plain HTTP only; HTTPS on www.chiralquest.com refuses connections. Do not send credentials or business data to this host.
+- No /.well-known/ documents, robots.txt, or llms.txt are published.
+- Business contact is by email or the on-site enquiry form only.
