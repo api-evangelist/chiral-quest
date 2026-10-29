@@ -64,14 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Chiral Quest (Suzhou) Co., Ltd. (凯瑞斯德生化（苏州）有限公司) is a Chinese pharmaceutical CDMO built on asymmetric catalytic hydrogenation. It develops and manufactures chiral drug molecules, key raw materials, regulatory starting materials (RSMs), and advanced GMP intermediates for global pharmaceutical companies, across four capability platforms: asymmetric catalytic hydrogenation, enzyme-catalyzed biosynthesis, flow chemistry, and process innovation.
+Chiral Quest (Suzhou) Co., Ltd. (凯瑞斯德生化（苏州）有限公司) is a Chinese pharmaceutical CDMO specializing in chiral chemistry. The company operates asymmetric catalytic hydrogenation, enzyme-catalyzed biosynthesis, flow chemistry, and process innovation technology platforms, using proprietary catalysts to develop and manufacture chiral drug molecules, key raw materials, regulatory starting materials (RSMs), and advanced GMP intermediates for global pharmaceutical companies. Founded around its asymmetric hydrogenation catalyst technology, Chiral Quest merged with Jiangxi Longlai in 2012 and with Suzhou Pengxu in 2020; the group employs more than 800 people including a research team of roughly 150. Suzhou is the parent company and R&D center, Jiangxi Longlai is the manufacturing base, and the company maintains offices in the United Kingdom and the United States. Chiral Quest is a brochure-site company with no public API, developer portal, or machine-readable data surface.
 
-The group employs 800+ people including a ~150-person R&D team. Suzhou is the parent company and R&D center, Jiangxi Longlai Biopharmaceutical is the manufacturing base, and there are offices in the UK (Milton, Cambridgeshire) and the US (Monmouth Junction, NJ).
+**Areas:** Company · Healthcare · Pharmaceuticals · Chemistry · Chiral Chemistry · Drug Discovery · CDMO · Contract Manufacturing · Fine Chemicals · Asymmetric Catalysis · Biocatalysis · Flow Chemistry
 
-Backed by: idg-capital
+## Chiral Quest on APIs.io
 
-## API surface
+Everything profiled for Chiral Quest is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/chiral-quest/](https://apis.io/providers/chiral-quest/)** — or go straight to one of the APIs or properties below.
 
-None. Chiral Quest publishes no public API, developer portal, SDK, or machine-readable specification. The full 65-page sitemap is a corporate brochure site with no developer or documentation section, and no `/.well-known/` discovery documents, `robots.txt`, or `llms.txt` are served. The company's only structured data surface is a browser-only searchable amino acid database (SMILES / CAS / molecular weight / formula) with no documented API.
+### Published properties
 
-Note: `www.chiralquest.com` is served over plain HTTP only — HTTPS refuses connections. See `security/chiral-quest-domain-security.yml`.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Chiral Quest Domain Security](https://apis.io/security/chiral-quest/chiral-quest-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.chiralquest.com/en/)
+
+## API Evangelist rating
+
+**Kin Score 4.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.7** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chiral-quest/](https://apis.io/providers/chiral-quest/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Chiral Quest: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/chiral-quest/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
